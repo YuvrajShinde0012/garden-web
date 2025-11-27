@@ -62,7 +62,5 @@ Your project will now run on:
 * **Frontend:** [http://localhost:3000](http://localhost:3000)
 * **Backend:** [http://localhost:5000](http://localhost:5000)
 
----
 
-That's it — simple and ready to use.
-Want an even shorter version? Or a combined start script?
+
